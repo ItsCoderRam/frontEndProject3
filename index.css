@@ -17,7 +17,7 @@
    
 }
 .search-data{
-    margin-left: 30px;
+    margin-left: 250px;
     margin-top: 40px;
     padding: 10px;
 }
@@ -35,4 +35,9 @@ h3{
 }
 #search-form{
     padding: 10px;
+}
+p{
+    width: 70%;
+    padding: 10px;
+    margin-left: 20px;
 }
